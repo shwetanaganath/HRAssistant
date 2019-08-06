@@ -1,0 +1,15 @@
+E:\InterviewPreparation\HRAssistantBot\HRAssistantBot\bin\Debug\netcoreapp2.1\appsettings.json
+E:\InterviewPreparation\HRAssistantBot\HRAssistantBot\bin\Debug\netcoreapp2.1\HRAssistantBot.deps.json
+E:\InterviewPreparation\HRAssistantBot\HRAssistantBot\bin\Debug\netcoreapp2.1\HRAssistantBot.runtimeconfig.json
+E:\InterviewPreparation\HRAssistantBot\HRAssistantBot\bin\Debug\netcoreapp2.1\HRAssistantBot.runtimeconfig.dev.json
+E:\InterviewPreparation\HRAssistantBot\HRAssistantBot\bin\Debug\netcoreapp2.1\HRAssistantBot.dll
+E:\InterviewPreparation\HRAssistantBot\HRAssistantBot\bin\Debug\netcoreapp2.1\HRAssistantBot.pdb
+E:\InterviewPreparation\HRAssistantBot\HRAssistantBot\obj\Debug\netcoreapp2.1\HRAssistantBot.csprojAssemblyReference.cache
+E:\InterviewPreparation\HRAssistantBot\HRAssistantBot\obj\Debug\netcoreapp2.1\HRAssistantBot.csproj.CoreCompileInputs.cache
+E:\InterviewPreparation\HRAssistantBot\HRAssistantBot\obj\Debug\netcoreapp2.1\HRAssistantBot.AssemblyInfoInputs.cache
+E:\InterviewPreparation\HRAssistantBot\HRAssistantBot\obj\Debug\netcoreapp2.1\HRAssistantBot.AssemblyInfo.cs
+E:\InterviewPreparation\HRAssistantBot\HRAssistantBot\obj\Debug\netcoreapp2.1\HRAssistantBot.dll
+E:\InterviewPreparation\HRAssistantBot\HRAssistantBot\obj\Debug\netcoreapp2.1\HRAssistantBot.pdb
+E:\InterviewPreparation\HRAssistantBot\HRAssistantBot\obj\Debug\netcoreapp2.1\HRAssistantBot.RazorAssemblyInfo.cache
+E:\InterviewPreparation\HRAssistantBot\HRAssistantBot\obj\Debug\netcoreapp2.1\HRAssistantBot.RazorAssemblyInfo.cs
+E:\InterviewPreparation\HRAssistantBot\HRAssistantBot\obj\Debug\netcoreapp2.1\HRAssistantBot.RazorTargetAssemblyInfo.cache
